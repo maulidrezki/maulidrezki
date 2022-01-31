@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **maulidrezki13@gmail.com** or [here](https://www.linkedin.com/in/maulidrezki)
 
+- 📋 Download my [resume](https://www.dropbox.com/s/k1esilesh2wxbx8/Resume%20Maulid%20Rezki%202022%20-%20Technical.pdf?dl=0)
+
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maulidrezki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulidrezki" height="30" width="40" /></a>
