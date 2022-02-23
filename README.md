@@ -9,7 +9,10 @@
 
 - 📫 How to reach me: **maulidrezki13@gmail.com** or [here](https://www.linkedin.com/in/maulidrezki)
 
+- 🌎 Check out my personal **[portfolio](http://www.maulid.info/)**
+
 - 📋 Download my [resume](https://www.dropbox.com/s/k1esilesh2wxbx8/Resume%20Maulid%20Rezki%202022%20-%20Technical.pdf?dl=0)
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
