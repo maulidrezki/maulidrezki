@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning to master **React & Node.js**     
 
-- 🖥 Senior Associate, Product: NCX & Research at **[Shopee](https://careers.shopee.co.id/)**
+- 🖥 Senior Associate, Product Manager at **[Shopee](https://careers.shopee.co.id/)**
 
 - 📫 How to reach me: **maulidrezki13@gmail.com** or [here](https://www.linkedin.com/in/maulidrezki)
 
