@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulid</h1>
-<h3 align="center">A full stack engineer from Indonesia and full time Product Manager @ Shopee Indonesia </h3> 
+<h3 align="center">A full stack engineer from Indonesia </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulidrezki&label=Profile%20views&color=0e75b6&style=flat" alt="maulidrezki" /> </p>
  
